@@ -1,0 +1,58 @@
+{
+  "type": "splendid_slimes:plort_ripping",
+  "ingredient": {
+    "item": "splendid_slimes:plort",
+    "nbt": {
+      "plort": {
+        "id": "splendid_slimes:runic"
+      }
+    }
+  },
+  "results": [
+    {
+      "item": "irons_spellbooks:blank_rune",
+      "count": 1,
+      "weight": 20
+    },
+        {
+      "item": "irons_spellbooks:fire_rune",
+      "count": 1,
+      "weight": 10
+    },
+        {
+      "item": "irons_spellbooks:ice_rune",
+      "count": 1,
+      "weight": 10
+    },
+        {
+      "item": "irons_spellbooks:lightning_rune",
+      "count": 1,
+      "weight": 10
+    },
+    {
+      "item": "irons_spellbooks:ender_rune",
+      "count": 1,
+      "weight": 10
+    },
+        {
+      "item": "irons_spellbooks:holy_rune",
+      "count": 1,
+      "weight": 10
+    },
+        {
+      "item": "irons_spellbooks:blood_rune",
+      "count": 1,
+      "weight": 10
+    },
+    {
+      "item": "irons_spellbooks:evocation_rune",
+      "count": 1,
+      "weight": 10
+    },
+        {
+      "item": "irons_spellbooks:nature_rune",
+      "count": 1,
+      "weight": 10
+    }
+  ]
+}

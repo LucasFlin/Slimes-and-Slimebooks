@@ -1,0 +1,23 @@
+{
+  "type": "splendid_slimes:plort_pressing",
+  "ingredient": {
+    "count": 1,
+    "item": "irons_spellbooks:rare_ink"
+   },
+   "output": {
+    "item": "splendid_slimes:slime_heart",
+    "nbt": {
+      "slime": {
+        "id": "splendid_slimes:slimy"
+      }
+    }
+   },
+  "result": {
+    "item": "splendid_slimes:slime_heart",
+    "nbt": {
+      "slime": {
+        "id": "splendid_slimes:ink"
+      }
+    }
+  }
+}

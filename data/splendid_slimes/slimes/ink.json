@@ -1,0 +1,43 @@
+{
+  "breed": "ink",
+  "name": "Ink",
+  "color": "#073534",
+  "particle": {
+    "item": "irons_spellbooks:inscription_table"
+  },
+  "diet": "Arcane",
+  "foods": [
+    { "item": "irons_spellbooks:arcane_essence" },
+    { "item": "irons_spellbooks:lightning_bottle" },
+    { "item": "irons_spellbooks:frozen_bone" },
+    { "item": "irons_spellbooks:blood_vial" },
+    { "item": "irons_spellbooks:divine_pearl" },
+    { "item": "irons_spellbooks:cinder_essence" },
+    { "item": "minecraft:ender_pearl" },
+    { "item": "minecraft:emerald" },
+    { "item": "minecraft:poisonous_potato" },
+    { "item": "minecraft:echo_shard" },
+    { "item": "irons_spellbooks:arcane_debris" }
+  ],
+  "favorite_food": {
+    "item": "irons_spellbooks:arcane_essence"
+  },
+  "hostile_to_entities": [
+      "irons_spellbooks:dead_king",
+      "irons_spellbooks:apothecarist",
+      "irons_spellbooks:cryomancer",
+      "irons_spellbooks:cultist",
+      "irons_spellbooks:necromancer",
+      "irons_spellbooks:priest",
+      "irons_spellbooks:pyromancer"
+  ],
+  "traits": ["floating", "foodporting"],
+  "innate_effects": [
+    {
+      "effect": "irons_spellbooks:heartstop"
+    }
+  ],
+  "attack_commands": [
+    "cast @s magic_missile 10"
+  ]
+}

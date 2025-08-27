@@ -1,0 +1,38 @@
+{
+  "type": "splendid_slimes:plort_ripping",
+  "ingredient": {
+    "item": "splendid_slimes:plort",
+    "nbt": {
+      "plort": {
+        "id": "splendid_slimes:ink"
+      }
+    }
+  },
+  "results": [
+    {
+      "item": "irons_spellbooks:common_ink",
+      "count": 1,
+      "weight": 100
+    },
+        {
+      "item": "irons_spellbooks:uncommon_ink",
+      "count": 1,
+      "weight": 50
+    },
+        {
+      "item": "irons_spellbooks:rare_ink",
+      "count": 1,
+      "weight": 37
+    },
+        {
+      "item": "irons_spellbooks:epic_ink",
+      "count": 1,
+      "weight": 12
+    },
+    {
+      "item": "irons_spellbooks:legendary_ink",
+      "count": 1,
+      "weight": 1
+    }
+  ]
+}
