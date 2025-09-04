@@ -1,11 +1,11 @@
 {
   "breed": "ink",
-  "name": "Ink",
+  "name": "slime.splendid_slimes.ink",
   "color": "#073534",
   "particle": {
     "item": "irons_spellbooks:inscription_table"
   },
-  "diet": "Arcane",
+  "diet": "diet.splendid_slimes.ink",
   "foods": [
     { "item": "irons_spellbooks:arcane_essence" },
     { "item": "irons_spellbooks:lightning_bottle" },

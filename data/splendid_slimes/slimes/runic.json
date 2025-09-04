@@ -1,15 +1,15 @@
 {
   "breed": "runic",
-  "name": "Runic",
+  "name": "slime.splendid_slimes.runic",
   "color": "#757369",
   "particle": {
     "item": "minecraft:polished_andesite"
   },
   "hat": {
-    "item": "minecraft:carrot"
+    "item": "minecraft:feather"
   },
   "hat_scale": 0,
-  "diet": "Arcane",
+  "diet": "diet.splendid_slimes.runic",
   "foods": [
     { "item": "irons_spellbooks:arcane_essence" },
     { "item": "irons_spellbooks:lightning_bottle" },
